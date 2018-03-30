@@ -1,0 +1,22 @@
+{
+  "name": "woodenlog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbooali/woodenlog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbooali/woodenlog/issues"
+  },
+  "homepage": "https://github.com/mbooali/woodenlog#readme",
+  "dependencies": {
+    "ansi-styles": "^3.2.1"
+  }
+}
